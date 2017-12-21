@@ -25,7 +25,7 @@ SECRET_KEY = '=m9kxx^*rlj3a810n(q3pn9nk#246n70%%^p^=kgsc7ruh7i27'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost'] #'Ternest.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Ternest.pythonanywhere.com']
 
 
 # Application definition
