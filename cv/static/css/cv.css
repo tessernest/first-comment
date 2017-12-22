@@ -248,3 +248,8 @@ header.masthead {
       position: center;
       border-radius: 4px;
     }
+
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
